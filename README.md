@@ -7,6 +7,11 @@ Edits to this content are published in the following places:
 - [Windows 10 and Windows Server 2016](https://docs.microsoft.com/en-us/powershell/windows/get-started?view=win10-ps)
 - [Microsoft Desktop Optimization Pack](https://docs.microsoft.com/en-us/powershell/mdop/get-started?view=win-mdop2-ps) 
 
+**Note:**
+This module is not supported and does not work using PowerShell Core/PowerShell 7 at present.
+This is because this module relies on other Windows PowerShell modules that are not supported natively with PowerShell 7. 
+
+
 ## Contributing
 
 We actively merge contributions into this repository via [pull request](https://help.github.com/articles/using-pull-requests/) into the *master* branch. 
